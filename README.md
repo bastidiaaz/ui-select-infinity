@@ -3,6 +3,8 @@ Extend `ui-select` with feature of infinity scrolling.
 
 This is a fork of https://github.com/hyzhak/ui-select-infinity that also works for IE >= 9. As that project seems not to be maintained, I forked the project in order to have this IE support.
 
+Credits to Bastián Díaz (bastidiaaz).
+
 ## Installing
 
 ```
